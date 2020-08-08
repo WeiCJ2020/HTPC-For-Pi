@@ -1,0 +1,2 @@
+TEN_DAYS_URL = "https://weather.com/zh-CN/weather/tenday/l/98ac8ede30603e76945c07486cca502bb48cedf5a2ceb0bbc602c1c23b38b120"
+HOURS_URL = "https://weather.com/zh-CN/weather/hourbyhour/l/98ac8ede30603e76945c07486cca502bb48cedf5a2ceb0bbc602c1c23b38b120"
